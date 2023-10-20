@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1650292685 source:c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PROJET_SDD.h"
+
+1649715183 source:c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lst_sms.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+	"ELT_SMS.h"
+	"LST_SMS.h"
+	<string.h>
+
+1648764019 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\eltprim.h
+	"ELT_SMS.h"
+
+1649623548 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\elt_sms.h
+
+1648850859 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lstprim.h
+	"ELT_SMS.h"
+	"LST_SMS.h"
+
+1648850859 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lst_sms.h
+	"ELT_SMS.h"
+
+1650052235 source:c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\elt_sms.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	<string.h>
+
+1650052235 source:c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\eltcon.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM_CON.h"
+	"ELTCON.h"
+
+1648997149 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\eltprim_con.h
+	"ELTCON.h"
+
+1649166531 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\eltcon.h
+
+1650052235 source:c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\eltmsg.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<time.h>
+	"ELTPRIM_MSG.h"
+	"ELTMSG.h"
+
+1649368241 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\eltmsg.h
+	"ELT_SMS.h"
+	"LST_SMS.h"
+
+1649869187 source:c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lst_msg.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"LSTPRIM_MSG.h"
+	"ELTPRIM_MSG.h"
+	"ELTMSG.h"
+	"LST_MSG.h"
+
+1648767243 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lstprim_msg.h
+	"ELTMSG.h"
+	"LST_MSG.h"
+
+1648759219 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lst_msg.h
+	"ELTMSG.h"
+
+1648762139 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\eltprim_msg.h
+	"ELTMSG.h"
+
+1649868757 source:c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lstcon.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM_CON.h"
+	"LSTPRIM_CON.h"
+
+1648767535 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lstprim_con.h
+	"LSTCON.h"
+	"ELTCON.h"
+
+1648759704 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lstcon.h
+	"ELTCON.h"
+
+1648737119 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\projet_sdd.h
+	"SMS_SDD.h"
+	"MSG_SDD.h"
+	"CON_SDD.h"
+
+1648913829 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\sms_sdd.h
+	"LSTPRIM.h"
+	"LST_SMS.h"
+	"ELTPRIM.h"
+	"ELT_SMS.h"
+
+1648850859 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lst_sms.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+	"ELT_SMS.h"
+	"LST_SMS.h"
+	<string.h>
+
+1648910833 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\elt_sms.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM.h"
+	<string.h>
+
+1648913814 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\msg_sdd.h
+	"ELTMSG.h"
+	"ELTPRIM_MSG.h"
+	"LSTPRIM_MSG.h"
+	"LST_MSG.h"
+
+1648846846 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\eltmsg.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM_MSG.h"
+	"ELTMSG.h"
+
+1648846846 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lst_msg.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"LSTPRIM_MSG.h"
+	"ELTPRIM_MSG.h"
+	"ELTMSG.h"
+	"LST_MSG.h"
+
+1648913803 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\con_sdd.h
+	"ELTPRIM_CON.h"
+	"ELTCON.h"
+	"LSTCON.h"
+	"LSTPRIM_CON.h"
+
+1648904062 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\eltcon.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM_CON.h"
+	"ELTCON.h"
+
+1648768356 c:\users\atigs\desktop\code c ( asd 2)\projet_asd_2_attemp1\lstcon.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"ELTPRIM_CON.h"
+	"LSTPRIM_CON.h"
+

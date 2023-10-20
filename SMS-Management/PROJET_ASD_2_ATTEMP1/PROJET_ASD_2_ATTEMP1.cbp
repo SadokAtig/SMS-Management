@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PROJET_ASD_2_ATTEMP1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PROJET_ASD_2_ATTEMP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PROJET_ASD_2_ATTEMP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="CON_SDD.h" />
+		<Unit filename="ELTCON.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELTCON.h" />
+		<Unit filename="ELTMSG.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELTMSG.h" />
+		<Unit filename="ELTPRIM.h" />
+		<Unit filename="ELTPRIM_CON.h" />
+		<Unit filename="ELTPRIM_MSG.h" />
+		<Unit filename="ELT_SMS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ELT_SMS.h" />
+		<Unit filename="LSTCON.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LSTCON.h" />
+		<Unit filename="LSTPILE.h" />
+		<Unit filename="LSTPRIM.h" />
+		<Unit filename="LSTPRIM_CON.h" />
+		<Unit filename="LSTPRIM_MSG.h" />
+		<Unit filename="LST_MSG.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LST_MSG.h" />
+		<Unit filename="LST_SMS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LST_SMS.h" />
+		<Unit filename="MSG_SDD.h" />
+		<Unit filename="PROJET_SDD.h" />
+		<Unit filename="SMS_SDD.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
